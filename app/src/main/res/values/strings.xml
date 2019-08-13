@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="phone">Phone</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+</resources>
